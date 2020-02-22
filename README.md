@@ -1,4 +1,4 @@
-# Recommendation_Engine_IBM
+# [Recommendation_Engine_IBM] (https://github.com/RonghuiZhou/Recommendation_Engine_IBM/blob/master/Recommendations_with_IBM.ipynb)
 Recommendation Engine with IBM, Udacity Data Scientist Nanodegree   
 [Ronghui Zhou](https://www.linkedin.com/in/ronghuizhou/), Feb. 22, 2020
 
