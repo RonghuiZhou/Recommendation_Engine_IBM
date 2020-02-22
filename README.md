@@ -1,5 +1,5 @@
 # Recommendation_Engine_IBM
-Recommendation Engine with IBM, Udacity Data Scientist Nanodegree;   
+Recommendation Engine with IBM, Udacity Data Scientist Nanodegree   
 Ronghui Zhou, Feb. 22, 2020
 
 Introduction
